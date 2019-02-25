@@ -21,7 +21,7 @@ body{
 
 .header{
   background-image: url('../images/background.png');
-  margin: 0px;
+  margin: 0 px;
   height: 700px;
   /*width: 1440px;*/
   width : 100%;
