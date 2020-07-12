@@ -1,4 +1,1 @@
-# websiteVinculum19
-# vinculumWebsite
-# vinculum19
-# vinculum
+# Website designed for technical fest of IPCW, Department of Computer Science
